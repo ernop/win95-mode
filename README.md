@@ -1,6 +1,8 @@
-# Post Tools
+# Win95 Mode
 
 A local, single-file writing tool for producing precisely sized text screenshots. It uses a Windows 95 Notepad interface and works without a server, build step, account, or network connection.
+
+(The Caddy-served copy with McPhee spelling integration lives in `mybrowser/utilities/caddy/site/win95-mode/` at `http://win95-mode.localhost`.)
 
 ## Features
 
